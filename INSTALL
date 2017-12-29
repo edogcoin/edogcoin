@@ -1,0 +1,9 @@
+Building eDogCoin
+
+See doc/readme-qt.rst for instructions on building eDogCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of eDogCoin.
+
+See doc/build-*.txt for instructions on building edogcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of eDogCoin.

@@ -1,0 +1,34 @@
+src/*.exe
+src/edogcoin
+src/edogcoind
+src/test_edogcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.edogcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+edogcoin-qt
+eDogCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+edogcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
