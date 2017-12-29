@@ -1,0 +1,1 @@
+# eDogCoin 2018 YEAR OF THE DOG!
